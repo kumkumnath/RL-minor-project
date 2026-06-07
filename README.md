@@ -15,11 +15,5 @@ This repository contains implementations of **Q-Learning** and **SARSA**, two fu
 - `Q_learning.ipynb` → Q-Learning implementation
 - `SARSA.ipynb` → SARSA implementation
 
-## Concepts Covered
-- Reinforcement Learning
-- Exploration vs Exploitation
-- Q-table updates
-- Policy learning
-- On-policy vs Off-policy learning
 
 This project demonstrates how different RL algorithms learn optimal actions through rewards and environment interaction.
